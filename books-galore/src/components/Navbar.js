@@ -66,10 +66,10 @@ export default function NavBar() {
                                 <a href="javascript:void(0)">Book</a>
                             </li>
                             <li className="text-gray-600 hover:text-blue-600">
-                                <a href="javascript:void(0)">About US</a>
+                                <a href="javascript:void(0)">Review</a>
                             </li>
                             <li className="text-gray-600 hover:text-blue-600">
-                                <a href="javascript:void(0)">Contact US</a>
+                                <a href="javascript:void(0)">About Us</a>
                             </li>
                         </ul>
                     </div>
