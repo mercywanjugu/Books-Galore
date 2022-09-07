@@ -1,8 +1,8 @@
 import './App.css';
 import Navbar from './components/Navbar';
-// import Home from "./Home";
 // import Contact from "./Contact";
-// import About from "./About";
+import About from "./About";
+
 
 function App() {
   return (

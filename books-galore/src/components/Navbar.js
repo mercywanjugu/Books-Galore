@@ -57,10 +57,13 @@ export default function NavBar() {
                     >
                         <ul className="items-center justify-center space-y-8 md:flex md:space-x-6 md:space-y-0">
                             <li className="text-gray-600 hover:text-blue-600">
-                                <a href="javascript:void(0)">Home</a>
+                                <a href="javascript:void(0)">Author</a>
                             </li>
                             <li className="text-gray-600 hover:text-blue-600">
-                                <a href="javascript:void(0)">Author</a>
+                                <a href="javascript:void(0)">Category</a>
+                            </li>
+                            <li className="text-gray-600 hover:text-blue-600">
+                                <a href="javascript:void(0)">Book</a>
                             </li>
                             <li className="text-gray-600 hover:text-blue-600">
                                 <a href="javascript:void(0)">About US</a>
