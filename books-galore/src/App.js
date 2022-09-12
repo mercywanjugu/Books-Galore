@@ -5,9 +5,9 @@ import Navbar from "./components/Navbar";
 import React from "react";
 import About from './components/About'
 import Genre from './components/Genre';
-import Author from './components/Author'
+import Review from './components/Review'
 import Book from './components/Book'
-
+import AddBook from './components/AddBook'
 function App() {
   return (
     <Router>
@@ -18,8 +18,8 @@ function App() {
           <Route path="/about" element={<About />} />
           <Route path="/genre" element={<Genre />} />
           <Route path="/book" element={<Book />} />
-          {/* <Route path="/author" element={<Author />} /> */}
-          {/* <Route path="/app"  element={<App/>} /> */}
+          <Route path="/reviews" element={<Review />} />
+          <Route path="/addBook"  element={<AddBook/>} />
         </Routes>
     </Router>
   );

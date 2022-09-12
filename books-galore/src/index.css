@@ -11,7 +11,51 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+.text-2xl font-bold{
+  font-size: larger;
+}
+.paragraph{
+  font-style: italic;
+  font-size: larger;
+  font-weight: bolder;
+}
+.details{
+  font-style: italic;
+}
+.search{
+  font-style: italic;
+  font-display: blue;
+}
+form.new-book-form {
+  border: solid black 1px;
+  padding: 1em;
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+  min-width: 12em;
+  margin-left: 30%;
+  width: 48%;
+  border-right: solid black 1px;
+  background: #636768;
+  padding: 1em;
+}
 
+form.new-book-form > input,
+form.new-book-form > textarea {
+  font-size: 1em;
+  font-family: sans-serif;
+  margin-bottom: 0.5em;
+}
+
+input[type="submit"],
+button {
+  font-weight: bold;
+  font-size: 1em;
+  background: #04e8ff;
+  border: solid black 1px;
+  padding: 0.5em;
+  cursor: pointer;
+}
 
 
 
