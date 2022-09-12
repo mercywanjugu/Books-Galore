@@ -82,7 +82,7 @@ return (
 <th>Author</th>
 <th>Title</th>
 <th>Genre</th>
-<th>User</th>
+{/* <th>User</th> */}
 
 { <th>Delete Book</th> }
 </tr>
@@ -93,8 +93,7 @@ return (
       <td>{book.author_id}</td>
       <td>{book.title}</td>
       <td>{book.genre_id} </td>
-     
-      <td>{book.user.name} </td>
+      {/* <td>{book.user.name} </td> */}
       
       
       {/* {<td><Button variant="success">Update</Button></td> } */}
