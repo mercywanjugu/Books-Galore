@@ -1,0 +1,185 @@
+{
+    "books":[
+        {
+          "kind": "books#volume",
+          "id": "I4C7AAAAIAAJ",
+          "volumeInfo": {
+            "title": "Search and Seizure",
+            "subtitle": "A Statement of the Current Principles and Their Application",
+            "authors": [
+              "California. Office of the Attorney General"
+            ],
+            "publishedDate": "1969",
+            "readingModes": {
+              "text": false,
+              "image": false
+            },
+            "printType": "BOOK",
+            "categories": [
+              "Searches and seizures"
+            ],
+              "smallThumbnail": "http://books.google.com/books/content?id=I4C7AAAAIAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+              "thumbnail": "http://books.google.com/books/content?id=I4C7AAAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+                "language": "en"
+          },
+          "saleInfo": {
+            "country": "KE",
+            "saleability": "NOT_FOR_SALE",
+            "isEbook": false,
+            "listPrice": 1229
+          },
+          "accessInfo": {
+            "country": "KE",
+            "viewability": "NO_PAGES",
+            "embeddable": false,
+            "publicDomain": false,
+            "textToSpeechPermission": "ALLOWED",
+            "epub": {
+              "isAvailable": false
+            },
+            "pdf": {
+              "isAvailable": false
+            },
+            "webReaderLink": "http://play.google.com/books/reader?id=I4C7AAAAIAAJ&hl=&printsec=frontcover&source=gbs_api",
+            "accessViewStatus": "NONE",
+            "quoteSharingAllowed": false
+          },
+          "searchInfo": {
+            "textSnippet": "Table of Contents — Continued CHAPTER TEN— RULES FOR REASONABLE \u003cb\u003eSEARCHES\u003c/b\u003e Section The \u003cb\u003eSearch\u003c/b\u003e Must Be Reasonable 10.01 General Standard of Reasonableness 10.02 A Question Independent of Officer&#39;s Subjective Intent 10.08 Necessity of&nbsp;..."
+          }
+        },
+        {
+          "kind": "books#volume",
+          "id": "4tlHAQAAIAAJ",
+          "volumeInfo": {
+            "title": "Search and Seizure",
+            "authors": [
+              "John Wesley Hall"
+            ],
+            "publishedDate": "1991",
+            "industryIdentifiers": [
+              {
+                "type": "OTHER",
+                "identifier": "STANFORD:36105060054264"
+              }
+            ],
+            "readingModes": {
+              "text": false,
+              "image": false
+            },
+            "printType": "BOOK",
+            "categories": [
+              "Searches and seizures"
+            ],
+            "maturityRating": "NOT_MATURE",
+            "allowAnonLogging": false,
+            "contentVersion": "0.3.1.0.preview.0",
+            "panelizationSummary": {
+              "containsEpubBubbles": false,
+              "containsImageBubbles": false
+            },
+            "imageLinks": {
+              "smallThumbnail": "http://books.google.com/books/content?id=4tlHAQAAIAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+              "thumbnail": "http://books.google.com/books/content?id=4tlHAQAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+            },
+            "language": "en",
+            "previewLink": "http://books.google.com/books?id=4tlHAQAAIAAJ&q=%27+search+%27&dq=%27+search+%27&hl=&cd=2&source=gbs_api",
+            "infoLink": "http://books.google.com/books?id=4tlHAQAAIAAJ&dq=%27+search+%27&hl=&source=gbs_api",
+            "canonicalVolumeLink": "https://books.google.com/books/about/Search_and_Seizure.html?hl=&id=4tlHAQAAIAAJ"
+          },
+          "saleInfo": {
+            "country": "KE",
+            "saleability": "NOT_FOR_SALE",
+            "isEbook": false,
+            "listPrice": 1320
+          },
+          "accessInfo": {
+            "country": "KE",
+            "viewability": "NO_PAGES",
+            "embeddable": false,
+            "publicDomain": false,
+            "textToSpeechPermission": "ALLOWED",
+            "epub": {
+              "isAvailable": false
+            },
+            "pdf": {
+              "isAvailable": false
+            },
+            "webReaderLink": "http://play.google.com/books/reader?id=4tlHAQAAIAAJ&hl=&printsec=frontcover&source=gbs_api",
+            "accessViewStatus": "NONE",
+            "quoteSharingAllowed": false
+          },
+          "searchInfo": {
+            "textSnippet": "The parole or probation officer&#39;s right to conduct a \u003cb\u003esearch\u003c/b\u003e under his supervisory power over his charge does not give carte blanche to all law enforcement officers to come along and invade the individual&#39;s privacy."
+          }
+        },
+        {
+          "kind": "books#volume",
+          "id": "-TwQAQAAMAAJ",
+          "volumeInfo": {
+            "title": "Principles and Cases of the Law of Arrest, Search, and Seizure",
+            "authors": [
+              "Thomas J. Gardner",
+              "Victor Manian"
+            ],
+            "publisher": "Glencoe/McGraw-Hill School Publishing Company",
+            "publishedDate": "1974",
+            "industryIdentifiers": [
+              {
+                "type": "OTHER",
+                "identifier": "UOM:49015002276112"
+              }
+            ],
+            "readingModes": {
+              "text": false,
+              "image": false
+            },
+            "pageCount": 513,
+            "printType": "BOOK",
+            "categories": [
+              "Law"
+            ],
+            "maturityRating": "NOT_MATURE",
+            "allowAnonLogging": false,
+            "contentVersion": "0.2.1.0.preview.0",
+            "panelizationSummary": {
+              "containsEpubBubbles": false,
+              "containsImageBubbles": false
+            },
+            "imageLinks": {
+              "smallThumbnail": "http://books.google.com/books/content?id=-TwQAQAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+              "thumbnail": "http://books.google.com/books/content?id=-TwQAQAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+            },
+            "language": "en",
+            "previewLink": "http://books.google.com/books?id=-TwQAQAAMAAJ&q=%27+search+%27&dq=%27+search+%27&hl=&cd=3&source=gbs_api",
+            "infoLink": "http://books.google.com/books?id=-TwQAQAAMAAJ&dq=%27+search+%27&hl=&source=gbs_api",
+            "canonicalVolumeLink": "https://books.google.com/books/about/Principles_and_Cases_of_the_Law_of_Arres.html?hl=&id=-TwQAQAAMAAJ"
+          },
+          "saleInfo": {
+            "country": "KE",
+            "saleability": "NOT_FOR_SALE",
+            "isEbook": false,
+            "listPrice": 1422
+          },
+          "accessInfo": {
+            "country": "KE",
+            "viewability": "NO_PAGES",
+            "embeddable": false,
+            "publicDomain": false,
+            "textToSpeechPermission": "ALLOWED",
+            "epub": {
+              "isAvailable": false
+            },
+            "pdf": {
+              "isAvailable": false
+            },
+            "webReaderLink": "http://play.google.com/books/reader?id=-TwQAQAAMAAJ&hl=&printsec=frontcover&source=gbs_api",
+            "accessViewStatus": "NONE",
+            "quoteSharingAllowed": false
+          },
+          "searchInfo": {
+            "textSnippet": "\u003cb\u003esearch\u003c/b\u003e incident to the arrest. Should federal and state officers be working together and the arrest is made by the state officers, the authority to make the \u003cb\u003esearch\u003c/b\u003e is vested in the state officers. The same procedure should be observed&nbsp;..."
+          }
+        }
+    ]
+}
