@@ -11,7 +11,7 @@ function Book() {
 
   
   useEffect(() =>{
-    fetch("http://localhost:9292/books")
+    fetch("https://books-backend-galore.herokuapp.com/books")
 
     .then(res =>res.json())
     .then(data =>{
@@ -21,7 +21,7 @@ function Book() {
   function handleSubmit(e){
     e.prevent.Default();
     
-    fetch("http://localhost:9292/books", {
+    fetch("https://books-backend-galore.herokuapp.com/books", {
       method: "POST",
       headers: {
           "Content-Type":"application/json"
