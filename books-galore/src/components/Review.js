@@ -1,7 +1,7 @@
 // import React from 'react'
 
 import React, { useState } from "react";
-const FORM_ENDPOINT = "https://books-backend-galore.herokuapp.com/books";
+const FORM_ENDPOINT = "https://books-backend-galore.herokuapp.com/reviews";
 const Review = () => {
   const [submitted, setSubmitted] = useState(false);
   const handleSubmit = () => {
