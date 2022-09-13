@@ -52,7 +52,7 @@ setUser('')
 //   removeBook(Book);
 // }
 function handleDeleteClick(id){
-fetch(`http://localhost:9292/books/${id}`, {
+fetch(`https://books-backend-galore.herokuapp.com/books/${id}`, {
 method: "DELETE"
 })
 .then(res => res.json())
